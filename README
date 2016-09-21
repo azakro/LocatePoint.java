@@ -1,0 +1,10 @@
+Alana Zakroczemski
+
+This project uses a binary tree in Java to find whether or not two chosen points are in the same section of the randomly drawn lines on the GUI.
+
+Sources:
+http://www.ahristov.com/tutorial/geometry-games/intersection-lines.html
+http://stackoverflow.com/questions/5560679/inserting-nodes-into-a-binary-tree-in-java-question
+http://www.java2blog.com/2014/07/binary-tree-preorder-traversal-in-java.html
+http://stackoverflow.com/questions/25830932/how-to-find-if-two-line-segments-intersect-or-not-in-java
+http://stackoverflow.com/questions/642897/removing-an-element-from-an-array-java
